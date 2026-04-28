@@ -13,6 +13,7 @@ Here you can find a set of badges for Snap Store publishers to help promote thei
 - Spanish
 - Chinese(Taiwan)
 - Russian
+- Ukrainian
 - Portuguese
 - Italian (Italy)
 - Romanian
